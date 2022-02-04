@@ -1,0 +1,13 @@
+USE LAB11_DB
+GO
+
+DELETE FROM Users
+GO
+
+DELETE FROM Categories
+GO
+
+DELETE FROM Orders
+GO
+
+DELETE FROM Products
